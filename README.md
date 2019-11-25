@@ -34,7 +34,7 @@ As for the local version of the notebook, I used Python 3.6.7 (Anaconda distribu
 For the AWS EMR version, I used the emr-x 28.0 version for the software with version 2.4.4 of Spark.
 
 ### Blog Post
-I wrote a blog post about this project which you can find at . This blog post provides a broader overview of the project, provides some more background information on why predicting user churn, big data and Spark matter. It also provides a slightly different perspective on the project.
+I wrote a blog post about this project which you can find at https://medium.com/@hendrik_sill/predicting-churn-with-user-log-data-and-spark-udacity-dsnd-capstone-project-e41f0b0a1d0d. This blog post provides a broader overview of the project, provides some more background information on why predicting user churn, big data and Spark matter. It also provides a slightly different perspective on the project.
 
 ### Acknowledgements and Credits
 This Capstone project builds upon the knowledge I gained overall in the Udacity Data Scientist Nanodegree and also the Spark course offered by Udacity which can be found at https://medium.com/r/?url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Flearn-spark-at-udacity--ud2002. The Sparkify data was provided by Udacity and its partner Insight Data Science.
